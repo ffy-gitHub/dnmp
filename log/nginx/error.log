@@ -1,0 +1,10 @@
+2020/04/07 09:18:19 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/site2.conf:18
+2020/04/07 09:18:19 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2020/04/07 09:19:58 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/site2.conf:18
+2020/04/07 09:19:58 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2020/04/07 09:23:45 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/site2.conf:18
+2020/04/07 09:23:45 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2020/04/07 09:24:05 [error] 6#6: *3 open() "/var/www/html/yishou.local.com/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: local.yishou.com, request: "GET /favicon.ico HTTP/1.1", host: "local.yishou.com", referrer: "http://local.yishou.com/index.php"
+2020/04/07 16:46:45 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/site2.conf:18
+2020/04/07 16:46:45 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2020/04/07 16:47:02 [error] 6#6: *4 open() "/var/www/html/local.com/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: local.com, request: "GET /favicon.ico HTTP/1.1", host: "local.com", referrer: "http://local.com/index.php"

@@ -1,0 +1,131 @@
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+# Time: 2020-04-07T05:59:09.188629Z
+# User@Host: root[root] @ localhost []  Id:     3
+# Query_time: 13.977586  Lock_time: 0.000286 Rows_sent: 0  Rows_examined: 0
+use mysql;
+SET timestamp=1586239149;
+INSERT INTO time_zone_transition (Time_zone_id, Transition_time, Transition_type_id) VALUES
+ (@time_zone_id, -2147483648, 0)
+,(@time_zone_id, -1578807591, 1)
+,(@time_zone_id, -1247551200, 3)
+,(@time_zone_id, 354906009, 2)
+,(@time_zone_id, 370713610, 3)
+,(@time_zone_id, 386442010, 2)
+,(@time_zone_id, 402249611, 3)
+,(@time_zone_id, 417978011, 2)
+,(@time_zone_id, 433785612, 3)
+,(@time_zone_id, 449600412, 2)
+,(@time_zone_id, 465332412, 4)
+,(@time_zone_id, 481057212, 5)
+,(@time_zone_id, 496782013, 4)
+,(@time_zone_id, 512506813, 5)
+,(@time_zone_id, 528231613, 4)
+,(@time_zone_id, 543956413, 5)
+,(@time_zone_id, 559681213, 4)
+,(@time_zone_id, 575406014, 5)
+,(@time_zone_id, 591130814, 4)
+,(@time_zone_id, 606855614, 5)
+,(@time_zone_id, 622580414, 4)
+,(@time_zone_id, 638305215, 5)
+,(@time_zone_id, 654634815, 4)
+,(@time_zone_id, 670359616, 6)
+,(@time_zone_id, 686088016, 7)
+,(@time_zone_id, 695764816, 4)
+,(@time_zone_id, 701809216, 5)
+,(@time_zone_id, 717534017, 4)
+,(@time_zone_id, 733258817, 5)
+,(@time_zone_id, 748983618, 4)
+,(@time_zone_id, 764708418, 5)
+,(@time_zone_id, 780433219, 4)
+,(@time_zone_id, 796158019, 5)
+,(@time_zone_id, 811882819, 4)
+,(@time_zone_id, 828212420, 5)
+,(@time_zone_id, 846356420, 4)
+,(@time_zone_id, 859662020, 5)
+,(@time_zone_id, 877806021, 4)
+,(@time_zone_id, 891111621, 5)
+,(@time_zone_id, 909255621, 4)
+,(@time_zone_id, 922561222, 5)
+,(@time_zone_id, 941310022, 4)
+,(@time_zone_id, 954010822, 5)
+,(@time_zone_id, 972759622, 4)
+,(@time_zone_id, 985460422, 5)
+,(@time_zone_id, 1004209222, 4)
+,(@time_zone_id, 1017514822, 5)
+,(@time_zone_id, 1020193222, 8)
+,(@time_zone_id, 1035662422, 7)
+,(@time_zone_id, 1048968022, 6)
+,(@time_zone_id, 1067112022, 7)
+,(@time_zone_id, 1080417622, 6)
+,(@time_zone_id, 1099166422, 7)
+,(@time_zone_id, 1111867222, 6)
+,(@time_zone_id, 1130616022, 7)
+,(@time_zone_id, 1143316823, 6)
+,(@time_zone_id, 1162065623, 7)
+,(@time_zone_id, 1174766423, 6)
+,(@time_zone_id, 1193515223, 7)
+,(@time_zone_id, 1206820823, 6)
+,(@time_zone_id, 1224964823, 7)
+,(@time_zone_id, 1238270424, 6)
+,(@time_zone_id, 1256414424, 7)
+,(@time_zone_id, 1269720024, 6)
+,(@time_zone_id, 1288468824, 7)
+,(@time_zone_id, 1301169624, 4)
+,(@time_zone_id, 1414263625, 7)
+,(@time_zone_id, 1464465626, 4);
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+mysqld, Version: 5.7.29-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
